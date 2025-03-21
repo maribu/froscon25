@@ -22,3 +22,10 @@ Dungeons
 1. [Level 1: Just Getting Started](Level_1)
 2. [Level 2: Slaying Bugs](Level_2)
 3. [Level 3: Beware of the Dragon](Level_3)
+
+Disclaimer
+----------
+
+The hardware provided during the challenge needs to stay at the RIOT stand and is only borrowed.
+
+Only participants that have at most three non-merge commits contributed to the RIOT repo are eligible for winning a price.
