@@ -24,7 +24,7 @@ Steps
 
 1. Grab a temperature sensor and connect it to your board using jumper wires
 2. Enable the driver for the temperature sensor by adding `USEMODULE += <DRIVER_NAME>` to the `Makefile` of your app.
-3. Overwrite the default configuration of the drivery
+3. Overwrite the default configuration of the driver
     - A quick and dirty way is to add something along the lines of `CFLAGS += -DTEMPDRIVER_PARAMS_I2C=I2C_BUS(2)`
     - A more elegant way is to add a copy of the board spec and adapt it to your needs. Make this board using `EXTERNAL_BOARD_DIRS` available to your application.
 4. Use the `ZTIMER_MSEC` module to keep track of time
