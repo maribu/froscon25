@@ -10,6 +10,7 @@ Dungeons
 1. [Level 1: Just Getting Started](Level_1)
 2. [Level 2: Slaying Bugs](Level_2)
 3. [Level 3: Beware of the Dragon](Level_3)
+3. [Level 4: Defending the Treasure](Level_4)
 
 Disclaimer
 ----------
