@@ -1,20 +1,8 @@
-RIOT @ Chemnitzer Linux Tage
-============================
+RIOT @ FrOSCon 2025
+===================
 
 Welcome, adventurer, to the RIOT-OS Programming Challenge.
 Three dungeons await you on your way to glory and treasure, each more dangerous than the previous.
-The first three heroes to pass all trials and reach the end of the last dungeon alive will be awarded with great treasure:
-Three magic boards possessed by a logic daemon, willing to submit to your very commands and following your orders meticulously will be the great reward, namely:
-
-| Price | Name                                                 | RAM     | Flash   | Connectivity       | Estimated Value       |
-|:----- |:---------------------------------------------------- |:------- |:------- |:------------------ |:--------------------- |
-| 1.    | [P-NUCLEO-WB55](p-nucleo-wb55)                       | 256 KiB | 512 KiB | BLE, IEEE 802.15.4 | One calf              |
-| 2.    | [SAM E51 Curiosity Nano Evaluation Kit][same51-nano] | 256 KiB | 1 MiB   | None               | One dog               |
-| 3.    | [Raspberry PI PICO (RP2040)][rpi-pico]               | 264 KiB | x MiB   | None               | One apple and one egg |
-
-[p-nucleo-wb55]: https://www.st.com/en/evaluation-tools/p-nucleo-wb55.html
-[same51-nano]: https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/UserGuides/SAM-E51-Curiosity-Nano-User-Guide-DS70005432.pdf
-[rpi-pico]: https://www.raspberrypi.com/products/raspberry-pi-pico/
 
 Dungeons
 --------
@@ -27,5 +15,3 @@ Disclaimer
 ----------
 
 The hardware provided during the challenge needs to stay at the RIOT stand and is only borrowed.
-
-Only participants that have at most three non-merge commits contributed to the RIOT repo are eligible for winning a price.

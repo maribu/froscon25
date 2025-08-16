@@ -1,5 +1,5 @@
-RIOT@CLT2025: Second Dungeon - Slaying Bugs
-===========================================
+RIOT@FrOSCon25: Second Dungeon - Slaying Bugs
+=============================================
 
 Introduction
 ------------

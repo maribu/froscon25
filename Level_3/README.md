@@ -1,5 +1,5 @@
-RIOT@CLT2025: Third Dungeon - Beware of the Dragon
-==================================================
+RIOT@FrOSCon25: Third Dungeon - Beware of the Dragon
+====================================================
 
 Introduction
 ------------

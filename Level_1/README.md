@@ -1,5 +1,5 @@
-RIOT@CLT2025: First Dungeon - Just Getting Started
-==================================================
+RIOT@FrOSCon25: First Dungeon - Just Getting Started
+====================================================
 
 Introduction
 ------------
